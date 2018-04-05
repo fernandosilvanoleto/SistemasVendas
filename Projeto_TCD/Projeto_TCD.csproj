@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{870F9BBF-8229-4C58-BAC2-3FE0BC1E8353}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projeto_TCD</RootNamespace>
+    <AssemblyName>Projeto_TCD</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cliente.cs">
+      <DependentUpon>ModelBancos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseBancosDataSet.cs">
+      <DependentUpon>DatabaseBancosDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DatabaseBancosDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatabaseBancosDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseBancosDataSetGeral.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatabaseBancosDataSetGeral.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseBancosDataSetVendas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatabaseBancosDataSetVendas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormSigma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormSigma.Designer.cs">
+      <DependentUpon>FormSigma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormDados.Designer.cs">
+      <DependentUpon>FormDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormGraficoPorEstado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormGraficoPorEstado.Designer.cs">
+      <DependentUpon>FormGraficoPorEstado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormListaMaquina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormListaMaquina.Designer.cs">
+      <DependentUpon>FormListaMaquina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormListaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormListaCliente.Designer.cs">
+      <DependentUpon>FormListaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormContGerente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormContGerente.Designer.cs">
+      <DependentUpon>FormContGerente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormSplash.Designer.cs">
+      <DependentUpon>FormSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormVerCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormVerCliente.Designer.cs">
+      <DependentUpon>FormVerCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormVerMaquina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormVerMaquina.Designer.cs">
+      <DependentUpon>FormVerMaquina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormVisualizarVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormVisualizarVendas.Designer.cs">
+      <DependentUpon>FormVisualizarVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormTelaVendedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormTelaVendedor.Designer.cs">
+      <DependentUpon>FormTelaVendedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormTelaGerente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormTelaGerente.Designer.cs">
+      <DependentUpon>FormTelaGerente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormVenda.Designer.cs">
+      <DependentUpon>FormVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormTransferencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormTransferencia.Designer.cs">
+      <DependentUpon>FormTransferencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente.cs">
+      <DependentUpon>ModelBancos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Managers\GerenteManager.cs" />
+    <Compile Include="Managers\ClienteManager.cs" />
+    <Compile Include="Forms\FormMaquina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMaquina.Designer.cs">
+      <DependentUpon>FormMaquina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormCliente.Designer.cs">
+      <DependentUpon>FormCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Managers\MaquinaManager.cs" />
+    <Compile Include="Managers\MarcaManager.cs" />
+    <Compile Include="Maquina.cs">
+      <DependentUpon>ModelBancos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Marca.cs">
+      <DependentUpon>ModelBancos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ModelBancos.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelBancos.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ModelBancos.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelBancos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ModelBancos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelBancos.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Managers\TransportadoraManager.cs" />
+    <Compile Include="Managers\VendasManager.cs" />
+    <Compile Include="Managers\VendedorManager.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Transportadora.cs">
+      <DependentUpon>ModelBancos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Vendas.cs">
+      <DependentUpon>ModelBancos.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Vendedor.cs">
+      <DependentUpon>ModelBancos.tt</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ame.rdlc" />
+    <EmbeddedResource Include="Forms\FormSigma.resx">
+      <DependentUpon>FormSigma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormDados.resx">
+      <DependentUpon>FormDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormGraficoPorEstado.resx">
+      <DependentUpon>FormGraficoPorEstado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormListaMaquina.resx">
+      <DependentUpon>FormListaMaquina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormListaCliente.resx">
+      <DependentUpon>FormListaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormContGerente.resx">
+      <DependentUpon>FormContGerente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormCliente.resx">
+      <DependentUpon>FormCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMaquina.resx">
+      <DependentUpon>FormMaquina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormSplash.resx">
+      <DependentUpon>FormSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormVenda.resx">
+      <DependentUpon>FormVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormVerCliente.resx">
+      <DependentUpon>FormVerCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormVerMaquina.resx">
+      <DependentUpon>FormVerMaquina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormVisualizarVendas.resx">
+      <DependentUpon>FormVisualizarVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormTelaVendedor.resx">
+      <DependentUpon>FormTelaVendedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormTelaGerente.resx">
+      <DependentUpon>FormTelaGerente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormTransferencia.resx">
+      <DependentUpon>FormTransferencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraficoEstado.rdlc" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="ReportDados.rdlc" />
+    <EmbeddedResource Include="ReportMaquina.rdlc" />
+    <EmbeddedResource Include="ReportTeste.rdlc" />
+    <EntityDeploy Include="ModelBancos.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ModelBancos.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="DatabaseBancosDataSet.xsc">
+      <DependentUpon>DatabaseBancosDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DatabaseBancosDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatabaseBancosDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DatabaseBancosDataSet.xss">
+      <DependentUpon>DatabaseBancosDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DatabaseBancosDataSetGeral.xsc">
+      <DependentUpon>DatabaseBancosDataSetGeral.xsd</DependentUpon>
+    </None>
+    <None Include="DatabaseBancosDataSetGeral.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatabaseBancosDataSetGeral.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DatabaseBancosDataSetGeral.xss">
+      <DependentUpon>DatabaseBancosDataSetGeral.xsd</DependentUpon>
+    </None>
+    <None Include="DatabaseBancosDataSetVendas.xsc">
+      <DependentUpon>DatabaseBancosDataSetVendas.xsd</DependentUpon>
+    </None>
+    <None Include="DatabaseBancosDataSetVendas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatabaseBancosDataSetVendas.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DatabaseBancosDataSetVendas.xss">
+      <DependentUpon>DatabaseBancosDataSetVendas.xsd</DependentUpon>
+    </None>
+    <None Include="ModelBancos.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ModelBancos.edmx</DependentUpon>
+      <LastGenOutput>ModelBancos.Context.cs</LastGenOutput>
+    </None>
+    <None Include="ModelBancos.edmx.diagram">
+      <DependentUpon>ModelBancos.edmx</DependentUpon>
+    </None>
+    <None Include="ModelBancos.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ModelBancos.edmx</DependentUpon>
+      <LastGenOutput>ModelBancos.cs</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="DatabaseBancos.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DatabaseBancos_log.ldf">
+      <DependentUpon>DatabaseBancos.mdf</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Sistema.png" />
+    <None Include="Resources\analise2.png" />
+    <None Include="Resources\Analise1.png" />
+    <None Include="Resources\VoltarT.png" />
+    <None Include="Resources\Transferir.png" />
+    <None Include="Resources\Desconto1.png" />
+    <None Include="Resources\Voltar1.png" />
+    <None Include="Resources\Atualizar.png" />
+    <None Include="Resources\Pessoas.png" />
+    <None Include="Resources\Ver Maquina.png" />
+    <None Include="Resources\Realizar Venda.png" />
+    <None Include="Resources\Ver Venda.png" />
+    <None Include="Resources\Compra.png" />
+    <None Include="Resources\Caminhao.png" />
+    <None Include="Resources\Login2.png" />
+    <None Include="Resources\Entrar.png" />
+    <None Include="Resources\Vendedor.png" />
+    <None Include="Resources\Splash.jpg" />
+    <None Include="Resources\agcal2015-feveireiro.jpg" />
+    <None Include="Resources\Desconto.png" />
+    <None Include="Resources\Comment-edit-icon.png" />
+    <None Include="Resources\Spotify-icon.png" />
+    <None Include="Resources\Detalhes de Maquina.png" />
+    <None Include="Resources\Excluir1.png" />
+    <None Include="Resources\Next %281%29.png" />
+    <None Include="Resources\Next.png" />
+    <None Include="Resources\Chave1.png" />
+    <None Include="Resources\Chave.png" />
+    <None Include="Resources\Login1.png" />
+    <None Include="Resources\Fechar1.png" />
+    <None Include="Resources\Fechar.png" />
+    <None Include="Resources\Carr.png" />
+    <None Include="Resources\Carrinho.png" />
+    <None Include="Resources\Vendas 1.png" />
+    <None Include="Resources\Vendas.png" />
+    <None Include="Resources\AdicionarPessoas.png" />
+    <None Include="Resources\Voltar.png" />
+    <None Include="Resources\Cancelar2.png" />
+    <None Include="Resources\Excluir.png" />
+    <None Include="Resources\Alterar.png" />
+    <None Include="Resources\Adicionar.png" />
+    <None Include="Resources\Capturar - Cancelar1.JPG" />
+    <None Include="Resources\Cancelar1.png" />
+    <None Include="Resources\Adicionar.JPG" />
+    <None Include="Resources\Alterar.JPG" />
+    <None Include="Resources\Lixeira.png" />
+    <None Include="Resources\Exluir.JPG" />
+    <None Include="Resources\Voltar.JPG" />
+    <None Include="Resources\Ver Vendas.JPG" />
+    <None Include="Resources\Ver Cliente.JPG" />
+    <None Include="Resources\Vendas.JPG" />
+    <None Include="Resources\Pessoas.JPG" />
+    <None Include="Resources\Sair.JPG" />
+    <None Include="Resources\Capturar - Cancelar.JPG" />
+    <None Include="Resources\Cancelar.png" />
+    <None Include="Resources\abort-146072_640.png" />
+    <None Include="Resources\icone_cadastro_sucesso.png" />
+    <None Include="Resources\Login Pessoa.jpg" />
+    <None Include="Resources\multi-user-man-and-girl-27082.jpg" />
+    <None Include="Resources\Login.png" />
+    <None Include="Resources\Trator.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,264 @@
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\bin\Debug\Projeto_TCD.exe.config
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.csprojResolveAssemblyReference.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.Form1.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormVerCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.csproj.GenerateResource.Cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\bin\Debug\DatabaseBancos.mdf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\bin\Debug\DatabaseBancos_log.ldf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\bin\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\bin\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\bin\Debug\EntityFramework.dll
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\bin\Debug\EntityFramework.xml
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormVerMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormVisualizarVendas.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaVendedor.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormSplash.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.Properties.Resources.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormVenda.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormContGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\bin\Debug\Projeto_TCD.exe.config
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\bin\Debug\DatabaseBancos.mdf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\bin\Debug\DatabaseBancos_log.ldf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\bin\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\bin\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\bin\Debug\EntityFramework.dll
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\bin\Debug\EntityFramework.xml
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.csprojResolveAssemblyReference.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.Form2.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormContGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.Form1.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormSplash.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormVenda.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormVerCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormVerMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormVisualizarVendas.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaVendedor.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.Properties.Resources.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.csproj.GenerateResource.Cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\RdlCompile.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\RdlCompile.compiled
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD\Projeto_TCD\obj\Debug\Projeto_TCD.Amem.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\bin\Debug\Projeto_TCD.exe.config
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\bin\Debug\DatabaseBancos.mdf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\bin\Debug\DatabaseBancos_log.ldf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\bin\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\bin\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\bin\Debug\EntityFramework.dll
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\bin\Debug\EntityFramework.xml
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.csprojResolveAssemblyReference.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormContGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.Form1.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.FormMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.FormSplash.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.FormVenda.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormVerCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.FormVerMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.FormVisualizarVendas.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaVendedor.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.Properties.Resources.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.csproj.GenerateResource.Cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\RdlCompile.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\RdlCompile.compiled
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormTransferencia.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormGraficoPorEstado.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\bin\Debug\Projeto_TCD.exe.config
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\bin\Debug\DatabaseBancos.mdf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\bin\Debug\DatabaseBancos_log.ldf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\bin\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\bin\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\bin\Debug\EntityFramework.dll
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\bin\Debug\EntityFramework.xml
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.csprojResolveAssemblyReference.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormDados.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormGraficoPorEstado.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormContGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.Form1.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.FormMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.FormSplash.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.FormVenda.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormVerCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.FormVerMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.FormVisualizarVendas.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaVendedor.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormTransferencia.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.Properties.Resources.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\Projeto_TCD.csproj.GenerateResource.Cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\RdlCompile.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11.1\Projeto_TCD\obj\Debug\RdlCompile.compiled
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\bin\Debug\Projeto_TCD.exe.config
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\bin\Debug\DatabaseBancos.mdf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\bin\Debug\DatabaseBancos_log.ldf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\bin\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\bin\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\bin\Debug\EntityFramework.dll
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\bin\Debug\EntityFramework.xml
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.csprojResolveAssemblyReference.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormDados.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormGraficoPorEstado.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormContGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.Form1.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.FormMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.FormSplash.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.FormVenda.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormVerCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.FormVerMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.FormVisualizarVendas.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaVendedor.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormTransferencia.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.Properties.Resources.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.csproj.GenerateResource.Cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\RdlCompile.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\RdlCompile.compiled
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD 18-11 Manha\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormSigma.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\bin\Debug\Projeto_TCD.exe.config
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.csprojResolveAssemblyReference.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormSigma.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormDados.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormGraficoPorEstado.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormContGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.Form1.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormSplash.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormVenda.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormVerCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormVerMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormVisualizarVendas.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaVendedor.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormTransferencia.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Properties.Resources.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.csproj.GenerateResource.Cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\RdlCompile.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\obj\Debug\RdlCompile.compiled
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\bin\Debug\DatabaseBancos.mdf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\bin\Debug\DatabaseBancos_log.ldf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\bin\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\bin\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\bin\Debug\EntityFramework.dll
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\Projeto_TCD Final\Projeto_TCD\bin\Debug\EntityFramework.xml
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\Projeto_TCD.exe.config
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\DatabaseBancos.mdf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\DatabaseBancos_log.ldf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\EntityFramework.dll
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\EntityFramework.xml
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.csprojResolveAssemblyReference.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormSigma.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormDados.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormGraficoPorEstado.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormContGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.Form1.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormSplash.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormVenda.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormVerCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormVerMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormVisualizarVendas.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaVendedor.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormTransferencia.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Properties.Resources.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.csproj.GenerateResource.Cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\RdlCompile.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\RdlCompile.compiled
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\Projeto_TCD.exe.config
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\DatabaseBancos.mdf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\DatabaseBancos_log.ldf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\EntityFramework.dll
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\bin\Debug\EntityFramework.xml
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.csprojResolveAssemblyReference.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormSigma.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormDados.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormGraficoPorEstado.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormContGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.Form1.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormSplash.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormVenda.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormVerCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormVerMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormVisualizarVendas.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaVendedor.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormTransferencia.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Properties.Resources.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.csproj.GenerateResource.Cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\RdlCompile.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD\Trabalho TCD\Projeto_TCD Final\Projeto_TCD\obj\Debug\RdlCompile.compiled
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\bin\Debug\Projeto_TCD.exe.config
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\bin\Debug\DatabaseBancos.mdf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\bin\Debug\DatabaseBancos_log.ldf
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\bin\Debug\Projeto_TCD.exe
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\bin\Debug\Projeto_TCD.pdb
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\bin\Debug\EntityFramework.dll
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\bin\Debug\EntityFramework.xml
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.csprojResolveAssemblyReference.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormSigma.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormDados.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormGraficoPorEstado.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormListaCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormContGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.Form1.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormSplash.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormVenda.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormVerCliente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormVerMaquina.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormVisualizarVendas.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaVendedor.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.FormTelaGerente.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Forms.FormTransferencia.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.Properties.Resources.resources
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\Projeto_TCD.csproj.GenerateResource.Cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\RdlCompile.cache
+D:\Arquivos ULBRA\FACULDADE CEULP ULBRA\4º PERÍODO\LINGUAGEM DE PROGRAMAÇÃO COMERCIAL I\TCD LPC\Projeto_TCD Final\Projeto_TCD\obj\Debug\RdlCompile.compiled

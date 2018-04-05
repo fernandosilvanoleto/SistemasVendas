@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="DatabaseBancosModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Cliente">
+          <Key>
+            <PropertyRef Name="idCliente" />
+          </Key>
+          <Property Name="idCliente" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NomeCliente" Type="nvarchar" MaxLength="150" Nullable="false" />
+          <Property Name="TipoCliente" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="CPF" Type="nvarchar" MaxLength="25" Nullable="false" />
+          <Property Name="RG" Type="nvarchar" MaxLength="25" Nullable="false" />
+          <Property Name="DataNascimento" Type="nvarchar" MaxLength="25" Nullable="false" />
+          <Property Name="Sexo" Type="nvarchar" MaxLength="30" Nullable="false" />
+          <Property Name="Email" Type="nvarchar" MaxLength="150" Nullable="false" />
+          <Property Name="Rua" Type="nvarchar" MaxLength="150" Nullable="false" />
+          <Property Name="Bairro" Type="nvarchar" MaxLength="150" Nullable="false" />
+          <Property Name="Numero" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Complemento" Type="nvarchar" MaxLength="150" Nullable="false" />
+          <Property Name="Cidade" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="Estado" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Telefone" Type="nvarchar" MaxLength="20" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Gerente">
+          <Key>
+            <PropertyRef Name="idGerente" />
+          </Key>
+          <Property Name="idGerente" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nome" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Telefone" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="Formacao" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Departamento" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Sala" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Login" Type="int" Nullable="false" />
+          <Property Name="Senha" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Maquina">
+          <Key>
+            <PropertyRef Name="idMaquina" />
+          </Key>
+          <Property Name="idMaquina" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="idMarca" Type="int" Nullable="false" />
+          <Property Name="Nome" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Modelo" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="AnoFabricacao" Type="int" Nullable="false" />
+          <Property Name="Motor" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Potencia" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Combustivel" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="PesoMaquina" Type="int" Nullable="false" />
+          <Property Name="Cor" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="ValorMaquina" Type="money" Nullable="false" />
+          <Property Name="Status" Type="nvarchar" MaxLength="20" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Marca">
+          <Key>
+            <PropertyRef Name="idMarca" />
+          </Key>
+          <Property Name="idMarca" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nome" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="NomeOriginal" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Industira" Type="nvarchar" MaxLength="150" Nullable="false" />
+          <Property Name="AnoFundacao" Type="int" Nullable="false" />
+          <Property Name="Fundador" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="Presidente/CEO" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="Sede" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Tipo" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Site" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Produtos" Type="nvarchar" MaxLength="100" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Transportadora">
+          <Key>
+            <PropertyRef Name="idTransportadora" />
+          </Key>
+          <Property Name="idTransportadora" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nome" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="CidadeSede" Type="nvarchar" MaxLength="70" Nullable="false" />
+          <Property Name="Frota" Type="nvarchar" MaxLength="70" Nullable="false" />
+          <Property Name="CidadesFiliais" Type="nvarchar" MaxLength="150" Nullable="false" />
+          <Property Name="Fone" Type="nvarchar" MaxLength="25" Nullable="false" />
+          <Property Name="Email" Type="nvarchar" MaxLength="70" Nullable="false" />
+          <Property Name="ValorFrete" Type="money" Nullable="false" />
+          <Property Name="TempoEntrega" Type="nvarchar" MaxLength="25" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Vendas">
+          <Key>
+            <PropertyRef Name="idVenda" />
+          </Key>
+          <Property Name="idVenda" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="idCliente" Type="int" Nullable="false" />
+          <Property Name="idGerente" Type="int" />
+          <Property Name="idVendedor" Type="int" />
+          <Property Name="idMaquina" Type="int" Nullable="false" />
+          <Property Name="idTransportadora" Type="int" Nullable="false" />
+          <Property Name="DataVenda" Type="datetime" Nullable="false" />
+          <Property Name="FreteTotal" Type="money" Nullable="false" />
+          <Property Name="CustoTotal" Type="money" Nullable="false" />
+          <Property Name="EstadoCompra" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="CidadeCompra" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="QtProdutos" Type="int" Nullable="false" />
+          <Property Name="CidadeDestino" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="EstadoDestino" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="DescontoVenda" Type="money" />
+          <Property Name="EnderecoEntrega" Type="nvarchar" MaxLength="150" />
+        </EntityType>
+        <EntityType Name="Vendedor">
+          <Key>
+            <PropertyRef Name="idVendedor" />
+          </Key>
+          <Property Name="idVendedor" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nome" Type="nvarchar" MaxLength="150" Nullable="false" />
+          <Property Name="Email" Type="nvarchar" MaxLength="100" Nullable="false" />
+          <Property Name="DataContratacao" Type="nvarchar" MaxLength="25" Nullable="false" />
+          <Property Name="Setor" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Cargo" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Telefone" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="Comissao" Type="money" Nullable="false" />
+          <Property Name="Salario" Type="money" Nullable="false" />
+          <Property Name="Login" Type="int" Nullable="false" />
+          <Property Name="Senha" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Table_ToTable">
+          <End Role="Marca" Type="Self.Marca" Multiplicity="1" />
+          <End Role="Maquina" Type="Self.Maquina" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Marca">
+              <PropertyRef Name="idMarca" />
+            </Principal>
+            <Dependent Role="Maquina">
+              <PropertyRef Name="idMarca" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Vendas_ToTable">
+          <End Role="Cliente" Type="Self.Cliente" Multiplicity="1" />
+          <End Role="Vendas" Type="Self.Vendas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="idCliente" />
+            </Principal>
+            <Dependent Role="Vendas">
+              <PropertyRef Name="idCliente" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Vendas_ToTable_1">
+          <End Role="Gerente" Type="Self.Gerente" Multiplicity="0..1" />
+          <End Role="Vendas" Type="Self.Vendas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Gerente">
+              <PropertyRef Name="idGerente" />
+            </Principal>
+            <Dependent Role="Vendas">
+              <PropertyRef Name="idGerente" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Vendas_ToTable_2">
+          <End Role="Vendedor" Type="Self.Vendedor" Multiplicity="0..1" />
+          <End Role="Vendas" Type="Self.Vendas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Vendedor">
+              <PropertyRef Name="idVendedor" />
+            </Principal>
+            <Dependent Role="Vendas">
+              <PropertyRef Name="idVendedor" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Vendas_ToTable_3">
+          <End Role="Maquina" Type="Self.Maquina" Multiplicity="1" />
+          <End Role="Vendas" Type="Self.Vendas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Maquina">
+              <PropertyRef Name="idMaquina" />
+            </Principal>
+            <Dependent Role="Vendas">
+              <PropertyRef Name="idMaquina" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Vendas_ToTable_4">
+          <End Role="Transportadora" Type="Self.Transportadora" Multiplicity="1" />
+          <End Role="Vendas" Type="Self.Vendas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Transportadora">
+              <PropertyRef Name="idTransportadora" />
+            </Principal>
+            <Dependent Role="Vendas">
+              <PropertyRef Name="idTransportadora" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DatabaseBancosModelStoreContainer">
+          <EntitySet Name="Cliente" EntityType="Self.Cliente" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Gerente" EntityType="Self.Gerente" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Maquina" EntityType="Self.Maquina" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Marca" EntityType="Self.Marca" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Transportadora" EntityType="Self.Transportadora" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Vendas" EntityType="Self.Vendas" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Vendedor" EntityType="Self.Vendedor" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Table_ToTable" Association="Self.FK_Table_ToTable">
+            <End Role="Marca" EntitySet="Marca" />
+            <End Role="Maquina" EntitySet="Maquina" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Vendas_ToTable" Association="Self.FK_Vendas_ToTable">
+            <End Role="Cliente" EntitySet="Cliente" />
+            <End Role="Vendas" EntitySet="Vendas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Vendas_ToTable_1" Association="Self.FK_Vendas_ToTable_1">
+            <End Role="Gerente" EntitySet="Gerente" />
+            <End Role="Vendas" EntitySet="Vendas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Vendas_ToTable_2" Association="Self.FK_Vendas_ToTable_2">
+            <End Role="Vendedor" EntitySet="Vendedor" />
+            <End Role="Vendas" EntitySet="Vendas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Vendas_ToTable_3" Association="Self.FK_Vendas_ToTable_3">
+            <End Role="Maquina" EntitySet="Maquina" />
+            <End Role="Vendas" EntitySet="Vendas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Vendas_ToTable_4" Association="Self.FK_Vendas_ToTable_4">
+            <End Role="Transportadora" EntitySet="Transportadora" />
+            <End Role="Vendas" EntitySet="Vendas" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DatabaseBancosModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="DatabaseBancosEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Cliente" EntityType="DatabaseBancosModel.Cliente" />
+          <EntitySet Name="Gerente" EntityType="DatabaseBancosModel.Gerente" />
+          <EntitySet Name="Maquina" EntityType="DatabaseBancosModel.Maquina" />
+          <EntitySet Name="Marca" EntityType="DatabaseBancosModel.Marca" />
+          <EntitySet Name="Transportadora" EntityType="DatabaseBancosModel.Transportadora" />
+          <EntitySet Name="Vendas" EntityType="DatabaseBancosModel.Vendas" />
+          <EntitySet Name="Vendedor" EntityType="DatabaseBancosModel.Vendedor" />
+          <AssociationSet Name="FK_Vendas_ToTable" Association="DatabaseBancosModel.FK_Vendas_ToTable">
+            <End Role="Cliente" EntitySet="Cliente" />
+            <End Role="Vendas" EntitySet="Vendas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Vendas_ToTable_1" Association="DatabaseBancosModel.FK_Vendas_ToTable_1">
+            <End Role="Gerente" EntitySet="Gerente" />
+            <End Role="Vendas" EntitySet="Vendas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Table_ToTable" Association="DatabaseBancosModel.FK_Table_ToTable">
+            <End Role="Marca" EntitySet="Marca" />
+            <End Role="Maquina" EntitySet="Maquina" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Vendas_ToTable_3" Association="DatabaseBancosModel.FK_Vendas_ToTable_3">
+            <End Role="Maquina" EntitySet="Maquina" />
+            <End Role="Vendas" EntitySet="Vendas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Vendas_ToTable_4" Association="DatabaseBancosModel.FK_Vendas_ToTable_4">
+            <End Role="Transportadora" EntitySet="Transportadora" />
+            <End Role="Vendas" EntitySet="Vendas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Vendas_ToTable_2" Association="DatabaseBancosModel.FK_Vendas_ToTable_2">
+            <End Role="Vendedor" EntitySet="Vendedor" />
+            <End Role="Vendas" EntitySet="Vendas" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Cliente">
+          <Key>
+            <PropertyRef Name="idCliente" />
+          </Key>
+          <Property Name="idCliente" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NomeCliente" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+          <Property Name="TipoCliente" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="CPF" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="true" />
+          <Property Name="RG" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="true" />
+          <Property Name="DataNascimento" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="true" />
+          <Property Name="Sexo" Type="String" Nullable="false" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="Email" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+          <Property Name="Rua" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+          <Property Name="Bairro" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+          <Property Name="Numero" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Complemento" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+          <Property Name="Cidade" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="Estado" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Telefone" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Vendas" Relationship="DatabaseBancosModel.FK_Vendas_ToTable" FromRole="Cliente" ToRole="Vendas" />
+        </EntityType>
+        <EntityType Name="Gerente">
+          <Key>
+            <PropertyRef Name="idGerente" />
+          </Key>
+          <Property Name="idGerente" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nome" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Email" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Telefone" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="Formacao" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Departamento" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Sala" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Login" Type="Int32" Nullable="false" />
+          <Property Name="Senha" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Vendas" Relationship="DatabaseBancosModel.FK_Vendas_ToTable_1" FromRole="Gerente" ToRole="Vendas" />
+        </EntityType>
+        <EntityType Name="Maquina">
+          <Key>
+            <PropertyRef Name="idMaquina" />
+          </Key>
+          <Property Name="idMaquina" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="idMarca" Type="Int32" Nullable="false" />
+          <Property Name="Nome" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Modelo" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AnoFabricacao" Type="Int32" Nullable="false" />
+          <Property Name="Motor" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Potencia" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Combustivel" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="PesoMaquina" Type="Int32" Nullable="false" />
+          <Property Name="Cor" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ValorMaquina" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+          <NavigationProperty Name="Marca" Relationship="DatabaseBancosModel.FK_Table_ToTable" FromRole="Maquina" ToRole="Marca" />
+          <NavigationProperty Name="Vendas" Relationship="DatabaseBancosModel.FK_Vendas_ToTable_3" FromRole="Maquina" ToRole="Vendas" />
+          <Property Name="Status" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="Marca">
+          <Key>
+            <PropertyRef Name="idMarca" />
+          </Key>
+          <Property Name="idMarca" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nome" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="NomeOriginal" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Industira" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+          <Property Name="AnoFundacao" Type="Int32" Nullable="false" />
+          <Property Name="Fundador" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="Presidente_CEO" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="Sede" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Tipo" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Site" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Produtos" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Maquina" Relationship="DatabaseBancosModel.FK_Table_ToTable" FromRole="Marca" ToRole="Maquina" />
+        </EntityType>
+        <EntityType Name="Transportadora">
+          <Key>
+            <PropertyRef Name="idTransportadora" />
+          </Key>
+          <Property Name="idTransportadora" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nome" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="CidadeSede" Type="String" Nullable="false" MaxLength="70" FixedLength="false" Unicode="true" />
+          <Property Name="Frota" Type="String" Nullable="false" MaxLength="70" FixedLength="false" Unicode="true" />
+          <Property Name="CidadesFiliais" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+          <Property Name="Fone" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="true" />
+          <Property Name="Email" Type="String" Nullable="false" MaxLength="70" FixedLength="false" Unicode="true" />
+          <Property Name="ValorFrete" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+          <Property Name="TempoEntrega" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Vendas" Relationship="DatabaseBancosModel.FK_Vendas_ToTable_4" FromRole="Transportadora" ToRole="Vendas" />
+        </EntityType>
+        <EntityType Name="Vendas">
+          <Key>
+            <PropertyRef Name="idVenda" />
+          </Key>
+          <Property Name="idVenda" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="idCliente" Type="Int32" Nullable="false" />
+          <Property Name="idGerente" Type="Int32" />
+          <Property Name="idVendedor" Type="Int32" />
+          <Property Name="idMaquina" Type="Int32" Nullable="false" />
+          <Property Name="idTransportadora" Type="Int32" Nullable="false" />
+          <Property Name="DataVenda" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="FreteTotal" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+          <Property Name="CustoTotal" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+          <Property Name="EstadoCompra" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="CidadeCompra" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="QtProdutos" Type="Int32" Nullable="false" />
+          <Property Name="CidadeDestino" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="EstadoDestino" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="DescontoVenda" Type="Decimal" Precision="19" Scale="4" />
+          <Property Name="EnderecoEntrega" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Cliente" Relationship="DatabaseBancosModel.FK_Vendas_ToTable" FromRole="Vendas" ToRole="Cliente" />
+          <NavigationProperty Name="Gerente" Relationship="DatabaseBancosModel.FK_Vendas_ToTable_1" FromRole="Vendas" ToRole="Gerente" />
+          <NavigationProperty Name="Maquina" Relationship="DatabaseBancosModel.FK_Vendas_ToTable_3" FromRole="Vendas" ToRole="Maquina" />
+          <NavigationProperty Name="Transportadora" Relationship="DatabaseBancosModel.FK_Vendas_ToTable_4" FromRole="Vendas" ToRole="Transportadora" />
+          <NavigationProperty Name="Vendedor" Relationship="DatabaseBancosModel.FK_Vendas_ToTable_2" FromRole="Vendas" ToRole="Vendedor" />
+        </EntityType>
+        <EntityType Name="Vendedor">
+          <Key>
+            <PropertyRef Name="idVendedor" />
+          </Key>
+          <Property Name="idVendedor" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nome" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+          <Property Name="Email" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="DataContratacao" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="true" />
+          <Property Name="Setor" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Cargo" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Telefone" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+          <Property Name="Comissao" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+          <Property Name="Salario" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+          <Property Name="Login" Type="Int32" Nullable="false" />
+          <Property Name="Senha" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Vendas" Relationship="DatabaseBancosModel.FK_Vendas_ToTable_2" FromRole="Vendedor" ToRole="Vendas" />
+        </EntityType>
+        <Association Name="FK_Vendas_ToTable">
+          <End Type="DatabaseBancosModel.Cliente" Role="Cliente" Multiplicity="1" />
+          <End Type="DatabaseBancosModel.Vendas" Role="Vendas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Cliente">
+              <PropertyRef Name="idCliente" />
+            </Principal>
+            <Dependent Role="Vendas">
+              <PropertyRef Name="idCliente" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Vendas_ToTable_1">
+          <End Type="DatabaseBancosModel.Gerente" Role="Gerente" Multiplicity="0..1" />
+          <End Type="DatabaseBancosModel.Vendas" Role="Vendas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Gerente">
+              <PropertyRef Name="idGerente" />
+            </Principal>
+            <Dependent Role="Vendas">
+              <PropertyRef Name="idGerente" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Table_ToTable">
+          <End Type="DatabaseBancosModel.Marca" Role="Marca" Multiplicity="1" />
+          <End Type="DatabaseBancosModel.Maquina" Role="Maquina" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Marca">
+              <PropertyRef Name="idMarca" />
+            </Principal>
+            <Dependent Role="Maquina">
+              <PropertyRef Name="idMarca" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Vendas_ToTable_3">
+          <End Type="DatabaseBancosModel.Maquina" Role="Maquina" Multiplicity="1" />
+          <End Type="DatabaseBancosModel.Vendas" Role="Vendas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Maquina">
+              <PropertyRef Name="idMaquina" />
+            </Principal>
+            <Dependent Role="Vendas">
+              <PropertyRef Name="idMaquina" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Vendas_ToTable_4">
+          <End Type="DatabaseBancosModel.Transportadora" Role="Transportadora" Multiplicity="1" />
+          <End Type="DatabaseBancosModel.Vendas" Role="Vendas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Transportadora">
+              <PropertyRef Name="idTransportadora" />
+            </Principal>
+            <Dependent Role="Vendas">
+              <PropertyRef Name="idTransportadora" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Vendas_ToTable_2">
+          <End Type="DatabaseBancosModel.Vendedor" Role="Vendedor" Multiplicity="0..1" />
+          <End Type="DatabaseBancosModel.Vendas" Role="Vendas" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Vendedor">
+              <PropertyRef Name="idVendedor" />
+            </Principal>
+            <Dependent Role="Vendas">
+              <PropertyRef Name="idVendedor" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DatabaseBancosModelStoreContainer" CdmEntityContainer="DatabaseBancosEntities1">
+          <EntitySetMapping Name="Cliente">
+            <EntityTypeMapping TypeName="DatabaseBancosModel.Cliente">
+              <MappingFragment StoreEntitySet="Cliente">
+                <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+                <ScalarProperty Name="Estado" ColumnName="Estado" />
+                <ScalarProperty Name="Cidade" ColumnName="Cidade" />
+                <ScalarProperty Name="Complemento" ColumnName="Complemento" />
+                <ScalarProperty Name="Numero" ColumnName="Numero" />
+                <ScalarProperty Name="Bairro" ColumnName="Bairro" />
+                <ScalarProperty Name="Rua" ColumnName="Rua" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+                <ScalarProperty Name="DataNascimento" ColumnName="DataNascimento" />
+                <ScalarProperty Name="RG" ColumnName="RG" />
+                <ScalarProperty Name="CPF" ColumnName="CPF" />
+                <ScalarProperty Name="TipoCliente" ColumnName="TipoCliente" />
+                <ScalarProperty Name="NomeCliente" ColumnName="NomeCliente" />
+                <ScalarProperty Name="idCliente" ColumnName="idCliente" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Gerente">
+            <EntityTypeMapping TypeName="DatabaseBancosModel.Gerente">
+              <MappingFragment StoreEntitySet="Gerente">
+                <ScalarProperty Name="Senha" ColumnName="Senha" />
+                <ScalarProperty Name="Login" ColumnName="Login" />
+                <ScalarProperty Name="Sala" ColumnName="Sala" />
+                <ScalarProperty Name="Departamento" ColumnName="Departamento" />
+                <ScalarProperty Name="Formacao" ColumnName="Formacao" />
+                <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Nome" ColumnName="Nome" />
+                <ScalarProperty Name="idGerente" ColumnName="idGerente" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Maquina">
+            <EntityTypeMapping TypeName="DatabaseBancosModel.Maquina">
+              <MappingFragment StoreEntitySet="Maquina">
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="ValorMaquina" ColumnName="ValorMaquina" />
+                <ScalarProperty Name="Cor" ColumnName="Cor" />
+                <ScalarProperty Name="PesoMaquina" ColumnName="PesoMaquina" />
+                <ScalarProperty Name="Combustivel" ColumnName="Combustivel" />
+                <ScalarProperty Name="Potencia" ColumnName="Potencia" />
+                <ScalarProperty Name="Motor" ColumnName="Motor" />
+                <ScalarProperty Name="AnoFabricacao" ColumnName="AnoFabricacao" />
+                <ScalarProperty Name="Modelo" ColumnName="Modelo" />
+                <ScalarProperty Name="Nome" ColumnName="Nome" />
+                <ScalarProperty Name="idMarca" ColumnName="idMarca" />
+                <ScalarProperty Name="idMaquina" ColumnName="idMaquina" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Marca">
+            <EntityTypeMapping TypeName="DatabaseBancosModel.Marca">
+              <MappingFragment StoreEntitySet="Marca">
+                <ScalarProperty Name="Produtos" ColumnName="Produtos" />
+                <ScalarProperty Name="Site" ColumnName="Site" />
+                <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+                <ScalarProperty Name="Sede" ColumnName="Sede" />
+                <ScalarProperty Name="Presidente_CEO" ColumnName="Presidente/CEO" />
+                <ScalarProperty Name="Fundador" ColumnName="Fundador" />
+                <ScalarProperty Name="AnoFundacao" ColumnName="AnoFundacao" />
+                <ScalarProperty Name="Industira" ColumnName="Industira" />
+                <ScalarProperty Name="NomeOriginal" ColumnName="NomeOriginal" />
+                <ScalarProperty Name="Nome" ColumnName="Nome" />
+                <ScalarProperty Name="idMarca" ColumnName="idMarca" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Transportadora">
+            <EntityTypeMapping TypeName="DatabaseBancosModel.Transportadora">
+              <MappingFragment StoreEntitySet="Transportadora">
+                <ScalarProperty Name="TempoEntrega" ColumnName="TempoEntrega" />
+                <ScalarProperty Name="ValorFrete" ColumnName="ValorFrete" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Fone" ColumnName="Fone" />
+                <ScalarProperty Name="CidadesFiliais" ColumnName="CidadesFiliais" />
+                <ScalarProperty Name="Frota" ColumnName="Frota" />
+                <ScalarProperty Name="CidadeSede" ColumnName="CidadeSede" />
+                <ScalarProperty Name="Nome" ColumnName="Nome" />
+                <ScalarProperty Name="idTransportadora" ColumnName="idTransportadora" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Vendas">
+            <EntityTypeMapping TypeName="DatabaseBancosModel.Vendas">
+              <MappingFragment StoreEntitySet="Vendas">
+                <ScalarProperty Name="EnderecoEntrega" ColumnName="EnderecoEntrega" />
+                <ScalarProperty Name="DescontoVenda" ColumnName="DescontoVenda" />
+                <ScalarProperty Name="EstadoDestino" ColumnName="EstadoDestino" />
+                <ScalarProperty Name="CidadeDestino" ColumnName="CidadeDestino" />
+                <ScalarProperty Name="QtProdutos" ColumnName="QtProdutos" />
+                <ScalarProperty Name="CidadeCompra" ColumnName="CidadeCompra" />
+                <ScalarProperty Name="EstadoCompra" ColumnName="EstadoCompra" />
+                <ScalarProperty Name="CustoTotal" ColumnName="CustoTotal" />
+                <ScalarProperty Name="FreteTotal" ColumnName="FreteTotal" />
+                <ScalarProperty Name="DataVenda" ColumnName="DataVenda" />
+                <ScalarProperty Name="idTransportadora" ColumnName="idTransportadora" />
+                <ScalarProperty Name="idMaquina" ColumnName="idMaquina" />
+                <ScalarProperty Name="idVendedor" ColumnName="idVendedor" />
+                <ScalarProperty Name="idGerente" ColumnName="idGerente" />
+                <ScalarProperty Name="idCliente" ColumnName="idCliente" />
+                <ScalarProperty Name="idVenda" ColumnName="idVenda" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Vendedor">
+            <EntityTypeMapping TypeName="DatabaseBancosModel.Vendedor">
+              <MappingFragment StoreEntitySet="Vendedor">
+                <ScalarProperty Name="Senha" ColumnName="Senha" />
+                <ScalarProperty Name="Login" ColumnName="Login" />
+                <ScalarProperty Name="Salario" ColumnName="Salario" />
+                <ScalarProperty Name="Comissao" ColumnName="Comissao" />
+                <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+                <ScalarProperty Name="Cargo" ColumnName="Cargo" />
+                <ScalarProperty Name="Setor" ColumnName="Setor" />
+                <ScalarProperty Name="DataContratacao" ColumnName="DataContratacao" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="Nome" ColumnName="Nome" />
+                <ScalarProperty Name="idVendedor" ColumnName="idVendedor" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="true" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

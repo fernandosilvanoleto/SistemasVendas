@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7508abb4ee584bc5aaf06a7576c85820" Name="Diagram1" ZoomLevel="46">
+        <EntityTypeShape EntityType="DatabaseBancosModel.Cliente" Width="1.5" PointX="3" PointY="8.5" />
+        <EntityTypeShape EntityType="DatabaseBancosModel.Gerente" Width="1.5" PointX="3" PointY="17.375" />
+        <EntityTypeShape EntityType="DatabaseBancosModel.Maquina" Width="1.5" PointX="3" PointY="1.875" />
+        <EntityTypeShape EntityType="DatabaseBancosModel.Marca" Width="1.5" PointX="0.75" PointY="2" />
+        <EntityTypeShape EntityType="DatabaseBancosModel.Transportadora" Width="1.5" PointX="3" PointY="21.125" />
+        <EntityTypeShape EntityType="DatabaseBancosModel.Vendas" Width="1.5" PointX="5.25" PointY="1.125" />
+        <EntityTypeShape EntityType="DatabaseBancosModel.Vendedor" Width="1.5" PointX="3" PointY="13.25" />
+        <AssociationConnector Association="DatabaseBancosModel.FK_Vendas_ToTable" />
+        <AssociationConnector Association="DatabaseBancosModel.FK_Vendas_ToTable_1" />
+        <AssociationConnector Association="DatabaseBancosModel.FK_Table_ToTable" />
+        <AssociationConnector Association="DatabaseBancosModel.FK_Vendas_ToTable_3" />
+        <AssociationConnector Association="DatabaseBancosModel.FK_Vendas_ToTable_4" />
+        <AssociationConnector Association="DatabaseBancosModel.FK_Vendas_ToTable_2" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

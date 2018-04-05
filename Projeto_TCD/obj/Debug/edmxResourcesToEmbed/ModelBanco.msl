@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DatabaseBancosModelStoreContainer" CdmEntityContainer="DatabaseBancosEntities">
+    <EntitySetMapping Name="Cliente">
+      <EntityTypeMapping TypeName="DatabaseBancosModel.Cliente">
+        <MappingFragment StoreEntitySet="Cliente">
+          <ScalarProperty Name="idCliente" ColumnName="idCliente" />
+          <ScalarProperty Name="NomeCliente" ColumnName="NomeCliente" />
+          <ScalarProperty Name="TipoCliente" ColumnName="TipoCliente" />
+          <ScalarProperty Name="CPF" ColumnName="CPF" />
+          <ScalarProperty Name="RG" ColumnName="RG" />
+          <ScalarProperty Name="DataNascimento" ColumnName="DataNascimento" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Rua" ColumnName="Rua" />
+          <ScalarProperty Name="Bairro" ColumnName="Bairro" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Complemento" ColumnName="Complemento" />
+          <ScalarProperty Name="Cidade" ColumnName="Cidade" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Gerente">
+      <EntityTypeMapping TypeName="DatabaseBancosModel.Gerente">
+        <MappingFragment StoreEntitySet="Gerente">
+          <ScalarProperty Name="idGerente" ColumnName="idGerente" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+          <ScalarProperty Name="Formacao" ColumnName="Formacao" />
+          <ScalarProperty Name="Departamento" ColumnName="Departamento" />
+          <ScalarProperty Name="Sala" ColumnName="Sala" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Senha" ColumnName="Senha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Maquina">
+      <EntityTypeMapping TypeName="DatabaseBancosModel.Maquina">
+        <MappingFragment StoreEntitySet="Maquina">
+          <ScalarProperty Name="idMaquina" ColumnName="idMaquina" />
+          <ScalarProperty Name="idMarca" ColumnName="idMarca" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Modelo" ColumnName="Modelo" />
+          <ScalarProperty Name="AnoFabricacao" ColumnName="AnoFabricacao" />
+          <ScalarProperty Name="PaisFabricacao" ColumnName="PaisFabricacao" />
+          <ScalarProperty Name="Motor" ColumnName="Motor" />
+          <ScalarProperty Name="Condicao" ColumnName="Condicao" />
+          <ScalarProperty Name="HorasdeUso" ColumnName="HorasdeUso" />
+          <ScalarProperty Name="Potencia" ColumnName="Potencia" />
+          <ScalarProperty Name="Combustivel" ColumnName="Combustivel" />
+          <ScalarProperty Name="PesoMaquina" ColumnName="PesoMaquina" />
+          <ScalarProperty Name="Cor" ColumnName="Cor" />
+          <ScalarProperty Name="NumeroChassi" ColumnName="NumeroChassi" />
+          <ScalarProperty Name="ValorMaquina" ColumnName="ValorMaquina" />
+          <ScalarProperty Name="Tamanho" ColumnName="Tamanho" />
+          <ScalarProperty Name="InformacoesAD" ColumnName="InformacoesAD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Marca">
+      <EntityTypeMapping TypeName="DatabaseBancosModel.Marca">
+        <MappingFragment StoreEntitySet="Marca">
+          <ScalarProperty Name="idMarca" ColumnName="idMarca" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="NomeOriginal" ColumnName="NomeOriginal" />
+          <ScalarProperty Name="Industira" ColumnName="Industira" />
+          <ScalarProperty Name="AnoFundacao" ColumnName="AnoFundacao" />
+          <ScalarProperty Name="Fundador" ColumnName="Fundador" />
+          <ScalarProperty Name="Presidente_CEO" ColumnName="Presidente/CEO" />
+          <ScalarProperty Name="Sede" ColumnName="Sede" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="Site" ColumnName="Site" />
+          <ScalarProperty Name="Produtos" ColumnName="Produtos" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Transportadora">
+      <EntityTypeMapping TypeName="DatabaseBancosModel.Transportadora">
+        <MappingFragment StoreEntitySet="Transportadora">
+          <ScalarProperty Name="idTransportadora" ColumnName="idTransportadora" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="CidadeSede" ColumnName="CidadeSede" />
+          <ScalarProperty Name="Frota" ColumnName="Frota" />
+          <ScalarProperty Name="CidadesFiliais" ColumnName="CidadesFiliais" />
+          <ScalarProperty Name="Fone" ColumnName="Fone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="ValorFrete" ColumnName="ValorFrete" />
+          <ScalarProperty Name="TempoEntrega" ColumnName="TempoEntrega" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vendas">
+      <EntityTypeMapping TypeName="DatabaseBancosModel.Vendas">
+        <MappingFragment StoreEntitySet="Vendas">
+          <ScalarProperty Name="idVenda" ColumnName="idVenda" />
+          <ScalarProperty Name="idCliente" ColumnName="idCliente" />
+          <ScalarProperty Name="idGerente" ColumnName="idGerente" />
+          <ScalarProperty Name="idVendedor" ColumnName="idVendedor" />
+          <ScalarProperty Name="idMaquina" ColumnName="idMaquina" />
+          <ScalarProperty Name="idTransportadora" ColumnName="idTransportadora" />
+          <ScalarProperty Name="DataVenda" ColumnName="DataVenda" />
+          <ScalarProperty Name="FormaPagamento" ColumnName="FormaPagamento" />
+          <ScalarProperty Name="FreteTotal" ColumnName="FreteTotal" />
+          <ScalarProperty Name="GarantiaLoja" ColumnName="GarantiaLoja" />
+          <ScalarProperty Name="CustoTotal" ColumnName="CustoTotal" />
+          <ScalarProperty Name="EstadoCompra" ColumnName="EstadoCompra" />
+          <ScalarProperty Name="CidadeCompra" ColumnName="CidadeCompra" />
+          <ScalarProperty Name="QtProdutos" ColumnName="QtProdutos" />
+          <ScalarProperty Name="CidadeDestino" ColumnName="CidadeDestino" />
+          <ScalarProperty Name="EstadoDestino" ColumnName="EstadoDestino" />
+          <ScalarProperty Name="InformacoesAD" ColumnName="InformacoesAD" />
+          <ScalarProperty Name="DescontoVenda" ColumnName="DescontoVenda" />
+          <ScalarProperty Name="NotaFiscal" ColumnName="NotaFiscal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vendedor">
+      <EntityTypeMapping TypeName="DatabaseBancosModel.Vendedor">
+        <MappingFragment StoreEntitySet="Vendedor">
+          <ScalarProperty Name="idVendedor" ColumnName="idVendedor" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="DataContratacao" ColumnName="DataContratacao" />
+          <ScalarProperty Name="Setor" ColumnName="Setor" />
+          <ScalarProperty Name="Cargo" ColumnName="Cargo" />
+          <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+          <ScalarProperty Name="Comissao" ColumnName="Comissao" />
+          <ScalarProperty Name="Salario" ColumnName="Salario" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Senha" ColumnName="Senha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
